@@ -1,0 +1,26 @@
+h1{
+    color: green;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.presentation{
+    color: red;
+}
+
+#projects{
+    color: aqua;
+
+}
+div p{
+    color: purple;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
